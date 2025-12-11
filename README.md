@@ -82,6 +82,15 @@ This project was developed during a hackathon by **Team Bytes**.
 - **Machine Learning**: Developed the ML model for molecular behavior predictions.
 - **Visualization**: Created molecular images and energy plots for better insights.
 
+## Live Demonstration
+
+<img width="997" height="536" alt="Screenshot 2025-12-11 at 8 15 16 PM" src="https://github.com/user-attachments/assets/ae2c24f0-4de6-4233-b970-4c7b5cb9a8cb" />
+
+<img width="711" height="242" alt="Screenshot 2025-12-11 at 8 14 23 PM" src="https://github.com/user-attachments/assets/dd2ed690-6dd0-4018-b12e-eee7976bcae8" />
+
+<img width="966" height="521" alt="Screenshot 2025-12-11 at 8 13 31 PM" src="https://github.com/user-attachments/assets/5ca0af62-50da-4c86-998f-3a9731b31a12" />
+
+
 ## Learn More
 
 - [Qiskit Documentation](https://qiskit.org/documentation/) - Learn about quantum computing with Qiskit.
