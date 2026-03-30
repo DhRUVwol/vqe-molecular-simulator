@@ -106,7 +106,7 @@ This project was developed during a hackathon by **Team Bytes**.
 
 ## Deploy on Vercel
 
-The project id deployed on [Vercel Platform](https://quantum-sim-hack-iiitv.vercel.app/)
+The project is deployed on [Vercel Platform](https://quantum-sim-hack-iiitv.vercel.app/)
 
 ## License
 
