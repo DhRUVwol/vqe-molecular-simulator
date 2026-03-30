@@ -106,7 +106,7 @@ This project was developed during a hackathon by **Team Bytes**.
 
 ## Deploy on Vercel
 
-The easiest way to deploy this project is to use the [Vercel Platform](https://vercel.com). Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The project id deployed on [Vercel Platform](https://quantum-sim-hack-iiitv.vercel.app/)
 
 ## License
 
